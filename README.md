@@ -1,2 +1,2 @@
-# -C-Users-asus-Desktop-github1
+# yeni excel oluşturarak kaydetmek
 excelden veri almak
